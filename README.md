@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Webwithmahdi
+- 👋 Hi, I’m Mahdi Baghaei
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Javascript-React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me on my Instagram page
 
 <!---
 Webwithmahdi/Webwithmahdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
